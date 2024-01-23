@@ -1,2 +1,2 @@
 # learning-rust
- repo for doing the projects form the "The Rust Programming Language" book.
+Repository for the projects from the ("The Rust Programming Language" book)[https://github.com/rust-lang/book]. 
